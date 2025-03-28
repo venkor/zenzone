@@ -50,29 +50,29 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "ZenZone.pl"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: ZenZone.pl
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
+      - name: Posty
         url: posts
-      - name: Tags
+      - name: Tagi
         url: tags
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Cześć \U0001F44B"
+    Content: "Witaj na mojej stronie"
 
   socialIcons:
     - name: x
@@ -114,11 +114,11 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Kategorie
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tagi
       url: /tags/
       weight: 20
     - identifier: zenzone
