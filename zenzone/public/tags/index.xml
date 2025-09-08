@@ -2,22 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ZenZone.pl</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://zenzone.pl/tags/</link>
     <description>Recent content in Tags on ZenZone.pl</description>
     <image>
       <title>ZenZone.pl</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://zenzone.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zenzone.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.149.1</generator>
     <language>pl-pl</language>
-    <lastBuildDate>Fri, 15 Aug 2025 17:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Sep 2025 09:15:00 +0200</lastBuildDate>
+    <atom:link href="https://zenzone.pl/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bezinternecie</title>
-      <link>http://localhost:1313/tags/bezinternecie/</link>
-      <pubDate>Fri, 15 Aug 2025 17:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bezinternecie/</guid>
+      <title>Aplikacje</title>
+      <link>https://zenzone.pl/tags/aplikacje/</link>
+      <pubDate>Sun, 07 Sep 2025 09:15:00 +0200</pubDate>
+      <guid>https://zenzone.pl/tags/aplikacje/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Narzędzia</title>
+      <link>https://zenzone.pl/tags/narz%C4%99dzia/</link>
+      <pubDate>Sun, 07 Sep 2025 09:15:00 +0200</pubDate>
+      <guid>https://zenzone.pl/tags/narz%C4%99dzia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Produktywność</title>
+      <link>https://zenzone.pl/tags/produktywno%C5%9B%C4%87/</link>
+      <pubDate>Sun, 07 Sep 2025 09:15:00 +0200</pubDate>
+      <guid>https://zenzone.pl/tags/produktywno%C5%9B%C4%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyfrowy-Detoks</title>
+      <link>https://zenzone.pl/tags/cyfrowy-detoks/</link>
+      <pubDate>Thu, 04 Sep 2025 14:30:00 +0200</pubDate>
+      <guid>https://zenzone.pl/tags/cyfrowy-detoks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zdrowie-Psychiczne</title>
+      <link>https://zenzone.pl/tags/zdrowie-psychiczne/</link>
+      <pubDate>Thu, 04 Sep 2025 14:30:00 +0200</pubDate>
+      <guid>https://zenzone.pl/tags/zdrowie-psychiczne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pierwszy-Post</title>
+      <link>https://zenzone.pl/tags/pierwszy-post/</link>
+      <pubDate>Mon, 01 Sep 2025 10:00:00 +0200</pubDate>
+      <guid>https://zenzone.pl/tags/pierwszy-post/</guid>
       <description></description>
     </item>
   </channel>

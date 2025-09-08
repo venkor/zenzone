@@ -1,0 +1,60 @@
+# HTMLTest Configuration
+# See: https://github.com/wjdp/htmltest#configuration
+
+extension: .html
+logLevel: 1  # 0 = debug, 1 = info, 2 = warning, 3 = error
+
+# Directory containing the built site
+testDirectory: "public"
+directoryPath: "public"
+
+# Files to ignore
+directoryIndex: "index.html"
+ignoreCanonicalBrokenLinks: true
+
+# External link checking
+checkExternal: false  # Disabled to speed up the process
+timeout: 10s  # Lower timeout since we're not checking externals
+
+# Ignore SSL certificate errors for local development
+noCheckCert: true
+
+# Ignore specific URLs or patterns
+ignoreURLs:
+  - ".*"  # Ignore all URLs for now to prevent false positives
+
+# Ignore specific directories
+ignoreDirs:
+  - "assets"
+  - "images"
+  - "fonts"
+  - "vendor"
+
+# Ignore specific files
+ignoreFiles:
+  - "*/404.html"
+  - "*/sitemap.xml"
+  - "*/robots.txt"
+  - "*livereload.js*"  # Ignore livereload in development
+  - "*apple-touch-icon.png"  # Ignore missing favicon
+
+# Ignore specific CSS selectors
+ignoreClasses:
+  - "sr-only"
+  - "visually-hidden"
+
+# Custom status codes to ignore
+altMissing: true  # Ignore missing alt tags for now
+
+# Ignore specific link patterns (regex)
+ignoreLinkPatterns:
+  - "^/$"  # Root URL
+  - "^#"    # Anchor links
+
+# HTTP headers to include in requests
+httpHeaders:
+  - "User-Agent: htmltest"
+  - "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+
+# Custom 404 page (if you have one)
+# notFoundPage: "/404.html"

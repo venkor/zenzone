@@ -1,0 +1,21 @@
+# Deployment scripts
+deploy.sh
+prepublish.sh
+
+# Hugo default ignore patterns
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary files and directories
+/tmp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

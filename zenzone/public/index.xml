@@ -2,30 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ZenZone.pl</title>
-    <link>http://localhost:1313/</link>
+    <link>https://zenzone.pl/</link>
     <description>Recent content on ZenZone.pl</description>
     <image>
       <title>ZenZone.pl</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://zenzone.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zenzone.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.149.1</generator>
     <language>pl-pl</language>
-    <lastBuildDate>Fri, 15 Aug 2025 17:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Sep 2025 09:15:00 +0200</lastBuildDate>
+    <atom:link href="https://zenzone.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bezinternecie</title>
-      <link>http://localhost:1313/post/</link>
-      <pubDate>Fri, 15 Aug 2025 17:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/</guid>
-      <description>Desc Text.</description>
+      <title>Moje ulubione narzędzia do zwiększania produktywności</title>
+      <link>https://zenzone.pl/2025/09/narzedzia-do-produktywnosci/</link>
+      <pubDate>Sun, 07 Sep 2025 09:15:00 +0200</pubDate>
+      <guid>https://zenzone.pl/2025/09/narzedzia-do-produktywnosci/</guid>
+      <description>Poznaj aplikacje i narzędzia, które pomagają mi zachować produktywność i skupienie.</description>
     </item>
     <item>
-      <title>Sup</title>
-      <link>http://localhost:1313/sup/</link>
-      <pubDate>Fri, 15 Aug 2025 16:27:58 +0200</pubDate>
-      <guid>http://localhost:1313/sup/</guid>
-      <description></description>
+      <title>Mój tydzień bez mediów społecznościowych</title>
+      <link>https://zenzone.pl/2025/09/cyfrowy-detoks/</link>
+      <pubDate>Thu, 04 Sep 2025 14:30:00 +0200</pubDate>
+      <guid>https://zenzone.pl/2025/09/cyfrowy-detoks/</guid>
+      <description>Jak wygląda tydzień bez mediów społecznościowych? Sprawdź moje doświadczenia i wnioski.</description>
+    </item>
+    <item>
+      <title>Witaj świecie!</title>
+      <link>https://zenzone.pl/2025/09/witaj-swiecie/</link>
+      <pubDate>Mon, 01 Sep 2025 10:00:00 +0200</pubDate>
+      <guid>https://zenzone.pl/2025/09/witaj-swiecie/</guid>
+      <description>Mój pierwszy post na blogu ZenZone</description>
     </item>
   </channel>
 </rss>

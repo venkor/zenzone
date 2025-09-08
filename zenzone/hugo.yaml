@@ -3,6 +3,10 @@ languageCode: pl-pl
 title: ZenZone.pl
 theme: PaperMod
 
+# Configure content organization
+permalinks:
+  posts: /:year/:month/:contentbasename/
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -28,11 +32,11 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
-  disableSpecial1stPost: false
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
   hidemeta: false
@@ -65,9 +69,9 @@ params:
     imageTitle: my image
     buttons:
       - name: Posty
-        url: posts
+        url: /content/posts/
       - name: Tagi
-        url: tags
+        url: /tags/
 
   # home-info mode
   homeInfoParams:

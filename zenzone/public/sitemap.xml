@@ -2,21 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-08-15T17:30:00+00:00</lastmod>
+    <loc>https://zenzone.pl/tags/aplikacje/</loc>
+    <lastmod>2025-09-07T09:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bezinternecie/</loc>
-    <lastmod>2025-08-15T17:30:00+00:00</lastmod>
+    <loc>https://zenzone.pl/2025/09/narzedzia-do-produktywnosci/</loc>
+    <lastmod>2025-09-07T09:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-15T17:30:00+00:00</lastmod>
+    <loc>https://zenzone.pl/tags/narz%C4%99dzia/</loc>
+    <lastmod>2025-09-07T09:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-15T17:30:00+00:00</lastmod>
+    <loc>https://zenzone.pl/posts/</loc>
+    <lastmod>2025-09-07T09:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sup/</loc>
-    <lastmod>2025-08-15T16:27:58+02:00</lastmod>
+    <loc>https://zenzone.pl/tags/produktywno%C5%9B%C4%87/</loc>
+    <lastmod>2025-09-07T09:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://zenzone.pl/tags/</loc>
+    <lastmod>2025-09-07T09:15:00+02:00</lastmod>
+  </url><url>
+    <loc>https://zenzone.pl/</loc>
+    <lastmod>2025-09-07T09:15:00+02:00</lastmod>
+  </url><url>
+    <loc>https://zenzone.pl/tags/cyfrowy-detoks/</loc>
+    <lastmod>2025-09-04T14:30:00+02:00</lastmod>
+  </url><url>
+    <loc>https://zenzone.pl/2025/09/cyfrowy-detoks/</loc>
+    <lastmod>2025-09-04T14:30:00+02:00</lastmod>
+  </url><url>
+    <loc>https://zenzone.pl/tags/zdrowie-psychiczne/</loc>
+    <lastmod>2025-09-04T14:30:00+02:00</lastmod>
+  </url><url>
+    <loc>https://zenzone.pl/tags/pierwszy-post/</loc>
+    <lastmod>2025-09-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://zenzone.pl/2025/09/witaj-swiecie/</loc>
+    <lastmod>2025-09-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://zenzone.pl/categories/</loc>
   </url>
 </urlset>
