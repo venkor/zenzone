@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on ZenZone.pl</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on ZenZone.pl</description>
+    <title>Bezinternecie on ZenZone.pl</title>
+    <link>http://localhost:1313/tags/bezinternecie/</link>
+    <description>Recent content in Bezinternecie on ZenZone.pl</description>
     <image>
       <title>ZenZone.pl</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,13 +12,13 @@
     <generator>Hugo -- 0.149.1</generator>
     <language>pl-pl</language>
     <lastBuildDate>Fri, 15 Aug 2025 17:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bezinternecie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bezinternecie</title>
-      <link>http://localhost:1313/tags/bezinternecie/</link>
+      <link>http://localhost:1313/post/</link>
       <pubDate>Fri, 15 Aug 2025 17:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bezinternecie/</guid>
-      <description></description>
+      <guid>http://localhost:1313/post/</guid>
+      <description>Desc Text.</description>
     </item>
   </channel>
 </rss>
